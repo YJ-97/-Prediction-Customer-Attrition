@@ -27,5 +27,4 @@ url : https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers
 ---
 프로젝트 세부 내역 
 ---
-https://alabaster-sturgeon-3c8.notion.site/T-V-Trust-Valuation-5954be7b64e74d02abc4f6291d14d24f
-
+https://dbswo601.notion.site/T-V-Trust-Valuation-5954be7b64e74d02abc4f6291d14d24f
