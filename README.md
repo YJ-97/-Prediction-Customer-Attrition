@@ -10,6 +10,12 @@ Prediction_Customer_Attrition
 방지하여 유지하는 것이 중요해졌다. 따라서 수요가 많은 고객이탈예측 모형을 만들고
 고객이탈을 사전에 방지해보고자 한다.
 
+수행 역할
+---
+- imblearn에 존재하는 샘플링 기법의 사용과 이해
+- imblearn의 pipeline을 통해 해당 라이브러리에 존재하지 않는 복합 샘플링 기법 시도
+- 다양한 분류 모델  및 하이퍼 파라미터 최적화
+
 데이터 출처
 ---
 url : https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers
