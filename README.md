@@ -1,7 +1,6 @@
 Prediction_Customer_Attrition
 ---
 유비온디지털센터에서 진행한 Project1 고객이탈예측
-(국가신용등급 예측 프로젝트 후속)
 
 주제 선정 동기
 ---
