@@ -32,4 +32,4 @@ url : https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers
 ---
 프로젝트 세부 내역 
 ---
-https://dbswo601.notion.site/T-V-Trust-Valuation-5954be7b64e74d02abc4f6291d14d24f
+https://luminous-icebreaker-ab9.notion.site/T-V-Trust-Valuation-9c0a16a3e326453580a32428d7e663d9?pvs=4
